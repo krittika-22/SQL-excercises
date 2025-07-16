@@ -1,1 +1,1 @@
-This repository contains a collection of SQL queries and exercises designed to strengthen your understanding of SQL concepts, ranging from beginner to intermediate level. It’s ideal for interview preparation, coursework, or consistent daily practice.
+This repository contains a collection of SQL queries and exercises designed to strengthen my understanding of SQL concepts, ranging from beginner to intermediate level. It’s ideal for interview preparation, coursework, or consistent daily practice.
